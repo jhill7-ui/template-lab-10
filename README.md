@@ -7,7 +7,7 @@
 3. Click "create a new repository".
 4. Under **Owner**, select this organization (uh-manoa-ics212-f26).
 5. Set the repository **Visibility** to **Private**.
-6. Name your repository exactly like this: lab-08-your_uh_username
+6. Name your repository exactly like this: lab-10-your_uh_username
 
 ---
 
